@@ -1,0 +1,9 @@
+- 👋 Hi there!, I’m @Machvca a jr developer
+- 👀 I’m interested in growing my portfolio with different projects ...
+- 🌱 I’m currently looking for a jr web developer position so i can keep learning different lenguages...
+- 📫 How to reach me? jjorgemachuca@gmail.com...
+
+<!---
+Machvca/Machvca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
