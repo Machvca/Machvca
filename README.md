@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Im a front-end web<br>developer based in<br><br>Barcelona, Spain.</h3>
+<h3 align="left">Im a front-end web<br>developer based in<br>Barcelona, Spain.</h3>
 
 ###
 
