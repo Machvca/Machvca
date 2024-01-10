@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 </div>
 
 ###
@@ -21,15 +21,15 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there 👋 I'm Jorge Machuca</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">Im a front-end web<br>developer based in<br><br>Barcelona, Spain.</h3>
 
 ###
 
-<p align="left">I'm Jorge Machuca, im a Junior Web Developer based in Barcelona<br><br><br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">- 📚 I'm currently learning ... TypeScript<br><br>Do you want to know more about me? check my portfolio 👩‍💻  <br><br>https://portfolio-2023-eight-kappa.vercel.app/</p>
 
 ###
 
