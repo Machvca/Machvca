@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Do you want to know more about me? check my portfolio 👩‍💻  <br><br>https://portfolio-2023-eight-kappa.vercel.app/</p>
+<p align="left">Do you want to know more about me? check my portfolio 👩‍💻  <br><br>https://jorge-machuca.vercel.app</p>
 
 ###
 
